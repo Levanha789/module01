@@ -1,0 +1,22 @@
+ Bài 3. Mô tả thuật toán bằng Pseudo code & Flowchart
+ 1. Mô tả thuật toán tìm giá trị lớn nhất trong một dãy số
+   - Nhập vào N là số lượng giá trị trong dãy số
+   - Lần lượt nhập vào N giá trị liên tiếp: a1, a2, a3... an
+   - Ban đầu giả sử a1 là số lớn nhất (được lưu trong giá trị max); sau đó lần lượt xét các ai còn lại, 
+     nếu ai nào lớn hơn giá trị max thi lúc đó max sẽ nhận giá trị là ai. Sau khi đã xét hết các ai thì 
+     max chính là giá trị lớn nhất cần tìm.
+ 2. Mô tả thuật toán có cấu trúc điều kiện
+ - Nếu điểm => 75  -                  Loại A
+ - Nếu 60 <= điểm < 75 -              Loại B
+ - Nếu 45 <= điểm < 60 -              Loại C
+ - Nếu 35 <= điểm < 45 -              Loại D
+ - Nếu điểm < 35 -                    Loại E
+ Bài 4. Git & HTML
+ 1. Tổng quan về Git
+ 2. Các bước cơ bản với Git
+ 3. Clone dự án từ Git
+ 4. Tạo dự án mới trên GitHub
+ 5. Sử dụng Git
+ 6. Một trang web cơ bản và các thẻ HTML
+ 7. Các thẻ tiêu đề h1,h2,h3,h4,h5,h6
+ 8.
