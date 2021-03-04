@@ -1,0 +1,12 @@
+  BÀI 4 : Git & HTML
+    1. Thẻ tạo đoạn văn bản.
+    2. Thẻ tạo liên kết.
+    3. Thẻ hiển thị hình ảnh.
+    4. Sử dụng các thẻ tạo danh sách. 
+    5. Chú thích trong HTML.
+    6. Sử dụng HTML entity.
+    7. Sử dụng thẻ HTML cơ bản. 
+  BÀI 5 : HTML Form & Table
+    1. HTML Form & Table. 
+    2. Thẻ Input. 
+    3. Phương thức POST và GET
