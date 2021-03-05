@@ -1,0 +1,11 @@
+ BÀI 5. HTML Form & Table
+1. Tạo biểu mẫu cho trang webPage
+2. Phương thức POST và GETPage
+3. Thẻ InputPage
+4. HTML FormPage
+5. Làm việc với form
+6. Tạo form cơ bản
+7. Tạo một form tìm kiếm Google
+8. Tạo form đơn giản
+9. Tạo form lấy survey khách hàng
+10. Tạo giao diện form đăng ký người dùng
