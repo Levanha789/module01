@@ -1,0 +1,6 @@
+BÀI 6:Tổng quan JavaScript.
+1.Nhúng mã Javascript vào file HTML.
+2.Cú pháp JavaScript.
+3.Các cách nhúng JavaScript vào trang web.
+4.Chương trình JavaScript đơn giản.
+5.Quy tắc đặt tên file.
