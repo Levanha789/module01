@@ -1,0 +1,10 @@
+BÀI 7: Biến, kiểu dữ liệu và toán tử
+1.Biến và kiểu dữ liệu.
+2.Toán tử.
+3.Kiểu dữ liệu trong Javascript.
+4.Khai báo và sử dụng biến.
+5.Sử dụng toán tử
+6.Biến, kiểu dữ liệu và toán tử.
+7.Ứng dụng chuyển đổi tiền tệ.
+8.Ứng dụng máy tính.
+9.Biến, kiểu dữ liệu và toán tử.
